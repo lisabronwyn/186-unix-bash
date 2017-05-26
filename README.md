@@ -1,5 +1,9 @@
 #LG Solo Goal #196 for lisabronwyn (team languid-mouse)
 
+I completed half of the specs as I ended up misunderstanding the goal, specifically the last part of the bash-scripting. However, I did get a chance to look over the tutorials, even though I didn't complete those specific exercises. 
+
+My preoccupation this week was in getting a job, as I've been actively submitting and interviewing.
+
 # Dive Into UNIX and Bash
 
 ## Challenge Rating
